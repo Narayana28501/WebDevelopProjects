@@ -1,0 +1,15 @@
+.main-container{
+    border: 2px solid red;
+    width: 203px;
+    height: 240px;
+    margin:2px;
+    display: inline-block;
+    background-color: antiquewhite;
+}
+p{
+    text-align: center;
+}
+
+
+
+
