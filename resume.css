@@ -1,0 +1,86 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  background-color: white;
+  
+
+}
+
+.resume-container {
+  display: flex;
+  max-width: 900px;
+  margin: 20px auto;
+  background-color: white;
+  
+  
+}
+
+.left-column {
+  width: 45%;
+  background-color: lightcoral;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  
+  
+  
+  
+}
+
+.right-column {
+  width: 65%;
+  padding: 20px;
+}
+
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid white;
+  margin-bottom: 15px;
+}
+
+.section {
+  margin-bottom: 20px;
+  text-align: left;
+
+  
+
+}
+
+.section h3 {
+  border-bottom: 2px solid white;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+  color: white;
+
+}
+
+.left-column .section h3 {
+  color: white;
+  border-radius: 2px;
+}
+
+.right-column .section h3 {
+  color: lightcoral;
+  border-color: lightcoral;
+   
+}
+
+ul {
+  padding-left: 30px;
+  text-align: left;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+h2 {
+  margin-bottom: 5px;
+}
+
+p {
+  line-height: 1.5;
+}
